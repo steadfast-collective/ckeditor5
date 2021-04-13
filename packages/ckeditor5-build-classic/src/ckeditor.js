@@ -59,7 +59,7 @@ ClassicEditor.builtinPlugins = [
 	Paragraph,
 	PasteFromOffice,
     Subscript,
-    Superscript,
+	Superscript,
 	Table,
 	TableToolbar,
 	TextTransformation
